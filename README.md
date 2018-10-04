@@ -1,1 +1,1 @@
-# Welcome to our git repository
+# Welcome to our git repo
